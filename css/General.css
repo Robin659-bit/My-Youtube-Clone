@@ -1,0 +1,27 @@
+* {
+    font-family: Roboto, Arial;
+  }
+input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+img {
+    width: 100%;
+  }
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+  }
+div {
+    vertical-align: top;
+  }
+  body {
+    margin: 0;
+    padding-bottom: 250px;
+    padding-top: 80px;
+    padding-left: 80px;
+    background-color: white;
+    padding-right: 30px;
+  }
